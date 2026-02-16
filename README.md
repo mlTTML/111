@@ -1,7 +1,6 @@
 数据集和算子权重下载链接：
-通过网盘分享的文件：videos.tar.gz等4个文件
-链接: https://pan.baidu.com/s/1RPKn6q43EN9pyBS8bKTEbw?pwd=afhw 提取码: afhw 
---来自百度网盘超级会员v1的分享
+https://pan.baidu.com/s/1RPKn6q43EN9pyBS8bKTEbw?pwd=afhw
+
 ## 目录结构
 
 ```
