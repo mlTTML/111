@@ -33,14 +33,18 @@ pip install -r requirements.txt
 
 2. **数据格式**：`train.json` / `test.json` 为列表，每条为 DPO 格式：
 
-脚本会从 `./data/` 下根据 path 前缀解析视频路径（如 `UCF-101/...` → `./data/UCF-101/...`）。
-
 ## 训练（DPO）
 
-在项目根目录（或保证 `./data` 为当前 data 目录）下运行：
+在项目根目录下运行：
 
   ```bash
   python train.py
   ```
 
 仅用基座（不加载 LoRA）：加 `--use_base_model_only`。
+## 推理
+在项目根目录下运行：
+
+  ```bash
+  python inference.py
+  ```
